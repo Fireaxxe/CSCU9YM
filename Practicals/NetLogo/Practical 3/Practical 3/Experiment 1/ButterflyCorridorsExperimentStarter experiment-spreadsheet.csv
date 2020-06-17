@@ -1,0 +1,13 @@
+"BehaviorSpace results (NetLogo 6.1.1)"
+"ButterflyCorridorsExperimentStarter.nlogo"
+"experiment"
+"02/14/2020 13:09:20:120 +0000"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"0","149","0","149"
+"[run number]","1","2","3","4","5","6","7","8","9","10","11"
+"q","0","0.1","0.2","0.3","0.4","0.5","0.6","0.7","0.8","0.9","1"
+"num-butterflies","50","50","50","50","50","50","50","50","50","50","50"
+"[steps]","999","999","999","999","999","999","999","999","999","999","999"
+
+"[initial & final values]","corridor-width","corridor-width","corridor-width","corridor-width","corridor-width","corridor-width","corridor-width","corridor-width","corridor-width","corridor-width","corridor-width"
+,"220.74686122445112","169.98622868184543","88.56408954433716","51.79975282837275","40.370143613564814","29.601689414680962","17.310044205975416","19.473737449128226","21.808511807607537","15.918385126631174","1.0289915108550525"
